@@ -1,11 +1,13 @@
-<h2>reactIntro</h2>
+<h2>About</h2>
 
 This project is part of the Starter module of RocketSeat.
 It is a todo list of technologies.
 
 <p align="center">
- <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
+ <a href="#screens">Screens</a> | <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
 </p>
+
+<h2 id="screens">Screens</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/yOFC7UGsVZ7NUcNPzT/giphy.gif">
