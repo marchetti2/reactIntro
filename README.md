@@ -29,7 +29,7 @@ It is a todo list of technologies.
 
 **Clone the project and access the folder**
 ```bash
-$ git clone https://github.com/marchetti2/reactIntro.git && cd reactIntro
+$ git clone https://github.com/marchetti2/todo-list-tech-reactjs.git && cd todo-list-tech-reactjs
 ```
 
 **Install the dependencies**
